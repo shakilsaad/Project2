@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h3{
+    font-size: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.name-highlight{
+
+    color: deeppink;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: deeppink;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 800px;
+    color: white;
+}
+.half-width img{
+    width: 100%;
+}
+
