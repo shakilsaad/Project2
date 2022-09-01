@@ -11,13 +11,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-/* .clearfix:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
-  } */
 
 .section-top{
     width: 100%;
@@ -25,6 +18,14 @@ body{
     padding-bottom: 5%;
     padding-top: 10%;
 }
+
+/* .clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  } */
 
 .left-section{
     width: 40%;
@@ -56,7 +57,6 @@ body{
 
 .btn-down{
     width: auto;
-    display: block;
 }
 
 .btn-down a{
@@ -81,5 +81,68 @@ body{
 
 .right-section img{
     width: 80%;
+}
+
+
+.middle-section{
+        width: 100%;
+        font-family: 'Poppins', sans-serif;
+        padding-bottom: 5%;
+    
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+  }
+
+  .left-banner {
+    width: 40%;
+    float: left;
+    height: auto;
+    padding-left: 7%;
+    padding-top: 3%;
+}
+
+.left-banner img{
+    width: 80%;
+}
+
+.right-banner{
+    width: 40%;
+    height: auto;
+    padding-right: 7%;
+    float: right;
+    padding-top: 10%;
+}
+
+.link-button{
+    width: auto;
+    padding-top: 7%;
+}
+
+.link-button a{
+    text-decoration: none;
+    background-color: deeppink;
+    color: white;
+    padding: 10px 15px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.right-banner h2{
+    font-size: 30px;
+
+}
+
+.right-banner p{
+    font-size: 18px;
+    text-align: justify;
+    padding-top: 30px;
+    width: 100%;
+    height: auto;
 }
 
