@@ -146,3 +146,65 @@ body{
     height: auto;
 }
 
+
+.last-banner h2{
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+
+.last-banner img{
+    width: 25%;
+    float: left;
+    padding-left: 6%;
+    padding-top: 50px;
+}
+
+.client-part h2{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.client-part h4{
+    text-align: center;
+    padding-top: 80px;
+}
+
+.client-part h6{
+    text-align: center;
+    padding-top: 10px;
+}
+.client-part p{
+    text-decoration: none;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 18px;
+}
+
+.last-part {
+    width: 700px;
+    background-color: deeppink;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.last-part h6{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.last-part h3{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
+footer p{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 50px;
+
+}
