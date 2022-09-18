@@ -45,7 +45,7 @@ body{
     font-size: 50px;
     font-weight: bolder;
     margin-bottom: 20px;
-    color: deeppink;
+    color: #3bff14;
 }
 .left-section p{
     text-align: justify;
@@ -53,6 +53,7 @@ body{
     margin-bottom: 60px;
     width: 100%;
     height: auto;
+    color: gray;
 }
 
 .btn-down{
@@ -61,7 +62,7 @@ body{
 
 .btn-down a{
     text-decoration: none;
-    background-color: deeppink;
+    background-color: #3bff14;
     color: white;
     padding: 10px 30px;
     font-size: 20px;
@@ -74,13 +75,12 @@ body{
 .right-section{
     width: 40%;
     float: right;
-    height: 60%;
     padding-right: 7%;
     /* padding-top: 7% */
 }
 
 .right-section img{
-    width: 80%;
+    width: 90%;
 }
 
 
@@ -126,7 +126,7 @@ body{
 
 .link-button a{
     text-decoration: none;
-    background-color: deeppink;
+    background-color: #3bff14;
     color: white;
     padding: 10px 15px;
     font-size: 20px;
@@ -144,6 +144,7 @@ body{
     padding-top: 30px;
     width: 100%;
     height: auto;
+    color: gray;
 }
 
 
@@ -180,11 +181,12 @@ body{
     text-align: center;
     padding-top: 15px;
     font-size: 18px;
+    color: gray;
 }
 
 .last-part {
     width: 700px;
-    background-color: deeppink;
+    background-color: #3bff14;
     border-radius: 10px;
     padding: 40px;
     margin: 0 auto;
@@ -193,12 +195,12 @@ body{
 
 .last-part h6{
     text-align: center;
-    color: white;
+    color: black;
     padding-top: 20px;
 }
 .last-part h3{
     text-align: center;
-    color: white;
+    color: black;
     padding-top: 20px;
 }
 
